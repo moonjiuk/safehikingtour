@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cbd0623.css",
-    "main.js": "/static/js/main.28ced07d.js",
-    "static/js/453.e1436066.chunk.js": "/static/js/453.e1436066.chunk.js",
-    "index.html": "/index.html",
-    "main.9cbd0623.css.map": "/static/css/main.9cbd0623.css.map",
-    "main.28ced07d.js.map": "/static/js/main.28ced07d.js.map",
-    "453.e1436066.chunk.js.map": "/static/js/453.e1436066.chunk.js.map"
+    "main.css": "/safehikingtour.github.io/static/css/main.9cbd0623.css",
+    "main.js": "/safehikingtour.github.io/static/js/main.fb5f5117.js",
+    "static/js/453.e1436066.chunk.js": "/safehikingtour.github.io/static/js/453.e1436066.chunk.js",
+    "index.html": "/safehikingtour.github.io/index.html",
+    "main.9cbd0623.css.map": "/safehikingtour.github.io/static/css/main.9cbd0623.css.map",
+    "main.fb5f5117.js.map": "/safehikingtour.github.io/static/js/main.fb5f5117.js.map",
+    "453.e1436066.chunk.js.map": "/safehikingtour.github.io/static/js/453.e1436066.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cbd0623.css",
-    "static/js/main.28ced07d.js"
+    "static/js/main.fb5f5117.js"
   ]
 }
