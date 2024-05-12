@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/safehikingtour.github.io/static/css/main.9cbd0623.css",
-    "main.js": "/safehikingtour.github.io/static/js/main.98e66241.js",
+    "main.js": "/safehikingtour.github.io/static/js/main.d5d136af.js",
     "static/js/453.e1436066.chunk.js": "/safehikingtour.github.io/static/js/453.e1436066.chunk.js",
+    "static/media/MarkerInfo.png": "/safehikingtour.github.io/static/media/MarkerInfo.48945cd900dfca2ebb89.png",
     "index.html": "/safehikingtour.github.io/index.html",
     "main.9cbd0623.css.map": "/safehikingtour.github.io/static/css/main.9cbd0623.css.map",
-    "main.98e66241.js.map": "/safehikingtour.github.io/static/js/main.98e66241.js.map",
+    "main.d5d136af.js.map": "/safehikingtour.github.io/static/js/main.d5d136af.js.map",
     "453.e1436066.chunk.js.map": "/safehikingtour.github.io/static/js/453.e1436066.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cbd0623.css",
-    "static/js/main.98e66241.js"
+    "static/js/main.d5d136af.js"
   ]
 }
