@@ -203,7 +203,7 @@ const HikingMap = () => {
                 </div>
 
                 <div className='tourList'>
-                    <h3>주변 관광지</h3>
+                    <h3>주변 관광지1</h3>
                     <ul>
                         {tourismSpots.map((spot, index) => (
                             <li key={index}>
