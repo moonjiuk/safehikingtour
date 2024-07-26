@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/safehikingtour.github.io/precache-manifest.328a509bbe01b77c3ec1a82c02ce9581.js"
+  "/safehikingtour.github.io/precache-manifest.44d1e8cd3da6726964288e915c4835bd.js"
 );
 
 self.addEventListener('message', (event) => {
