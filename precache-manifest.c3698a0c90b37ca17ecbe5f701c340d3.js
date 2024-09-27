@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1677d14255478216631e8656a0b424ef",
+    "revision": "341324b3099ee91c12d84bb174e43f2b",
     "url": "/safehikingtour.github.io/index.html"
   },
   {
-    "revision": "2ded3850c4533c2c2023",
-    "url": "/safehikingtour.github.io/static/css/main.0d13bb12.chunk.css"
+    "revision": "ab032a71b738f8681a0c",
+    "url": "/safehikingtour.github.io/static/css/main.be74ebef.chunk.css"
   },
   {
     "revision": "ff3356320d0dceb78e4e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/safehikingtour.github.io/static/js/3.5d4f8254.chunk.js"
   },
   {
-    "revision": "2ded3850c4533c2c2023",
+    "revision": "ab032a71b738f8681a0c",
     "url": "/safehikingtour.github.io/static/js/main.bfa8d834.chunk.js"
   },
   {
