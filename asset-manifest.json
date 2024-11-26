@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/safehikingtour.github.io/static/css/main.dd0e7f64.chunk.css",
-    "main.js": "/safehikingtour.github.io/static/js/main.5c778674.chunk.js",
-    "main.js.map": "/safehikingtour.github.io/static/js/main.5c778674.chunk.js.map",
-    "runtime-main.js": "/safehikingtour.github.io/static/js/runtime-main.f622bf1b.js",
-    "runtime-main.js.map": "/safehikingtour.github.io/static/js/runtime-main.f622bf1b.js.map",
-    "static/js/2.d35a8f52.chunk.js": "/safehikingtour.github.io/static/js/2.d35a8f52.chunk.js",
-    "static/js/2.d35a8f52.chunk.js.map": "/safehikingtour.github.io/static/js/2.d35a8f52.chunk.js.map",
-    "static/js/3.6d9861f8.chunk.js": "/safehikingtour.github.io/static/js/3.6d9861f8.chunk.js",
-    "static/js/3.6d9861f8.chunk.js.map": "/safehikingtour.github.io/static/js/3.6d9861f8.chunk.js.map",
-    "index.html": "/safehikingtour.github.io/index.html",
-    "precache-manifest.3aa278fd0478175507713681bb1eb05d.js": "/safehikingtour.github.io/precache-manifest.3aa278fd0478175507713681bb1eb05d.js",
-    "service-worker.js": "/safehikingtour.github.io/service-worker.js",
-    "static/css/main.dd0e7f64.chunk.css.map": "/safehikingtour.github.io/static/css/main.dd0e7f64.chunk.css.map",
-    "static/js/2.d35a8f52.chunk.js.LICENSE.txt": "/safehikingtour.github.io/static/js/2.d35a8f52.chunk.js.LICENSE.txt",
-    "static/media/chevron-left.svg": "/safehikingtour.github.io/static/media/chevron-left.68be7fce.svg",
-    "static/media/chevron-right.svg": "/safehikingtour.github.io/static/media/chevron-right.8850cb8a.svg"
+    "main.css": "/safehikingtour/static/css/main.dd0e7f64.chunk.css",
+    "main.js": "/safehikingtour/static/js/main.5c778674.chunk.js",
+    "main.js.map": "/safehikingtour/static/js/main.5c778674.chunk.js.map",
+    "runtime-main.js": "/safehikingtour/static/js/runtime-main.f24b74fa.js",
+    "runtime-main.js.map": "/safehikingtour/static/js/runtime-main.f24b74fa.js.map",
+    "static/js/2.d92acd8b.chunk.js": "/safehikingtour/static/js/2.d92acd8b.chunk.js",
+    "static/js/2.d92acd8b.chunk.js.map": "/safehikingtour/static/js/2.d92acd8b.chunk.js.map",
+    "static/js/3.6d9861f8.chunk.js": "/safehikingtour/static/js/3.6d9861f8.chunk.js",
+    "static/js/3.6d9861f8.chunk.js.map": "/safehikingtour/static/js/3.6d9861f8.chunk.js.map",
+    "index.html": "/safehikingtour/index.html",
+    "precache-manifest.886b6da0c52f837bac26476b0b7c089e.js": "/safehikingtour/precache-manifest.886b6da0c52f837bac26476b0b7c089e.js",
+    "service-worker.js": "/safehikingtour/service-worker.js",
+    "static/css/main.dd0e7f64.chunk.css.map": "/safehikingtour/static/css/main.dd0e7f64.chunk.css.map",
+    "static/js/2.d92acd8b.chunk.js.LICENSE.txt": "/safehikingtour/static/js/2.d92acd8b.chunk.js.LICENSE.txt",
+    "static/media/chevron-left.svg": "/safehikingtour/static/media/chevron-left.68be7fce.svg",
+    "static/media/chevron-right.svg": "/safehikingtour/static/media/chevron-right.8850cb8a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f622bf1b.js",
-    "static/js/2.d35a8f52.chunk.js",
+    "static/js/runtime-main.f24b74fa.js",
+    "static/js/2.d92acd8b.chunk.js",
     "static/css/main.dd0e7f64.chunk.css",
     "static/js/main.5c778674.chunk.js"
   ]
